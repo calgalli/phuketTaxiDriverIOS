@@ -1,0 +1,439 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2883925E1AB5C314001ADE88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2883925D1AB5C314001ADE88 /* AppDelegate.swift */; };
+		288392611AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2883925F1AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodeld */; };
+		288392631AB5C314001ADE88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288392621AB5C314001ADE88 /* ViewController.swift */; };
+		288392661AB5C314001ADE88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 288392641AB5C314001ADE88 /* Main.storyboard */; };
+		288392681AB5C314001ADE88 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 288392671AB5C314001ADE88 /* Images.xcassets */; };
+		2883926B1AB5C314001ADE88 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 288392691AB5C314001ADE88 /* LaunchScreen.xib */; };
+		288392771AB5C314001ADE88 /* phuketTaxiDriverMTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288392761AB5C314001ADE88 /* phuketTaxiDriverMTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		288392711AB5C314001ADE88 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 288392501AB5C314001ADE88 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 288392571AB5C314001ADE88;
+			remoteInfo = phuketTaxiDriverM;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		288392581AB5C314001ADE88 /* phuketTaxiDriverM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = phuketTaxiDriverM.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		2883925C1AB5C314001ADE88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2883925D1AB5C314001ADE88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		288392601AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = phuketTaxiDriverM.xcdatamodel; sourceTree = "<group>"; };
+		288392621AB5C314001ADE88 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		288392651AB5C314001ADE88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		288392671AB5C314001ADE88 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		2883926A1AB5C314001ADE88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		288392701AB5C314001ADE88 /* phuketTaxiDriverMTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = phuketTaxiDriverMTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		288392751AB5C314001ADE88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		288392761AB5C314001ADE88 /* phuketTaxiDriverMTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = phuketTaxiDriverMTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		288392551AB5C314001ADE88 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2883926D1AB5C314001ADE88 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2883924F1AB5C314001ADE88 = {
+			isa = PBXGroup;
+			children = (
+				2883925A1AB5C314001ADE88 /* phuketTaxiDriverM */,
+				288392731AB5C314001ADE88 /* phuketTaxiDriverMTests */,
+				288392591AB5C314001ADE88 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		288392591AB5C314001ADE88 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				288392581AB5C314001ADE88 /* phuketTaxiDriverM.app */,
+				288392701AB5C314001ADE88 /* phuketTaxiDriverMTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2883925A1AB5C314001ADE88 /* phuketTaxiDriverM */ = {
+			isa = PBXGroup;
+			children = (
+				2883925D1AB5C314001ADE88 /* AppDelegate.swift */,
+				288392621AB5C314001ADE88 /* ViewController.swift */,
+				288392641AB5C314001ADE88 /* Main.storyboard */,
+				288392671AB5C314001ADE88 /* Images.xcassets */,
+				288392691AB5C314001ADE88 /* LaunchScreen.xib */,
+				2883925F1AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodeld */,
+				2883925B1AB5C314001ADE88 /* Supporting Files */,
+			);
+			path = phuketTaxiDriverM;
+			sourceTree = "<group>";
+		};
+		2883925B1AB5C314001ADE88 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				2883925C1AB5C314001ADE88 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		288392731AB5C314001ADE88 /* phuketTaxiDriverMTests */ = {
+			isa = PBXGroup;
+			children = (
+				288392761AB5C314001ADE88 /* phuketTaxiDriverMTests.swift */,
+				288392741AB5C314001ADE88 /* Supporting Files */,
+			);
+			path = phuketTaxiDriverMTests;
+			sourceTree = "<group>";
+		};
+		288392741AB5C314001ADE88 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				288392751AB5C314001ADE88 /* Info.plist */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		288392571AB5C314001ADE88 /* phuketTaxiDriverM */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2883927A1AB5C314001ADE88 /* Build configuration list for PBXNativeTarget "phuketTaxiDriverM" */;
+			buildPhases = (
+				288392541AB5C314001ADE88 /* Sources */,
+				288392551AB5C314001ADE88 /* Frameworks */,
+				288392561AB5C314001ADE88 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = phuketTaxiDriverM;
+			productName = phuketTaxiDriverM;
+			productReference = 288392581AB5C314001ADE88 /* phuketTaxiDriverM.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2883926F1AB5C314001ADE88 /* phuketTaxiDriverMTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2883927D1AB5C314001ADE88 /* Build configuration list for PBXNativeTarget "phuketTaxiDriverMTests" */;
+			buildPhases = (
+				2883926C1AB5C314001ADE88 /* Sources */,
+				2883926D1AB5C314001ADE88 /* Frameworks */,
+				2883926E1AB5C314001ADE88 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				288392721AB5C314001ADE88 /* PBXTargetDependency */,
+			);
+			name = phuketTaxiDriverMTests;
+			productName = phuketTaxiDriverMTests;
+			productReference = 288392701AB5C314001ADE88 /* phuketTaxiDriverMTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		288392501AB5C314001ADE88 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0620;
+				ORGANIZATIONNAME = cake;
+				TargetAttributes = {
+					288392571AB5C314001ADE88 = {
+						CreatedOnToolsVersion = 6.2;
+					};
+					2883926F1AB5C314001ADE88 = {
+						CreatedOnToolsVersion = 6.2;
+						TestTargetID = 288392571AB5C314001ADE88;
+					};
+				};
+			};
+			buildConfigurationList = 288392531AB5C314001ADE88 /* Build configuration list for PBXProject "phuketTaxiDriverM" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2883924F1AB5C314001ADE88;
+			productRefGroup = 288392591AB5C314001ADE88 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				288392571AB5C314001ADE88 /* phuketTaxiDriverM */,
+				2883926F1AB5C314001ADE88 /* phuketTaxiDriverMTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		288392561AB5C314001ADE88 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				288392661AB5C314001ADE88 /* Main.storyboard in Resources */,
+				2883926B1AB5C314001ADE88 /* LaunchScreen.xib in Resources */,
+				288392681AB5C314001ADE88 /* Images.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2883926E1AB5C314001ADE88 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		288392541AB5C314001ADE88 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				288392631AB5C314001ADE88 /* ViewController.swift in Sources */,
+				288392611AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodeld in Sources */,
+				2883925E1AB5C314001ADE88 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2883926C1AB5C314001ADE88 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				288392771AB5C314001ADE88 /* phuketTaxiDriverMTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		288392721AB5C314001ADE88 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 288392571AB5C314001ADE88 /* phuketTaxiDriverM */;
+			targetProxy = 288392711AB5C314001ADE88 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		288392641AB5C314001ADE88 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				288392651AB5C314001ADE88 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		288392691AB5C314001ADE88 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2883926A1AB5C314001ADE88 /* Base */,
+			);
+			name = LaunchScreen.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		288392781AB5C314001ADE88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		288392791AB5C314001ADE88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2883927B1AB5C314001ADE88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = phuketTaxiDriverM/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		2883927C1AB5C314001ADE88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = phuketTaxiDriverM/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		2883927E1AB5C314001ADE88 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = phuketTaxiDriverMTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/phuketTaxiDriverM.app/phuketTaxiDriverM";
+			};
+			name = Debug;
+		};
+		2883927F1AB5C314001ADE88 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = phuketTaxiDriverMTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/phuketTaxiDriverM.app/phuketTaxiDriverM";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		288392531AB5C314001ADE88 /* Build configuration list for PBXProject "phuketTaxiDriverM" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				288392781AB5C314001ADE88 /* Debug */,
+				288392791AB5C314001ADE88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2883927A1AB5C314001ADE88 /* Build configuration list for PBXNativeTarget "phuketTaxiDriverM" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2883927B1AB5C314001ADE88 /* Debug */,
+				2883927C1AB5C314001ADE88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		2883927D1AB5C314001ADE88 /* Build configuration list for PBXNativeTarget "phuketTaxiDriverMTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2883927E1AB5C314001ADE88 /* Debug */,
+				2883927F1AB5C314001ADE88 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		2883925F1AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				288392601AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodel */,
+			);
+			currentVersion = 288392601AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodel */;
+			path = phuketTaxiDriverM.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = 288392501AB5C314001ADE88 /* Project object */;
+}
