@@ -1,0 +1,132 @@
+
+/* Class = "UILabel"; text = "Go to"; ObjectID = "0GM-I0-5W0"; */
+"0GM-I0-5W0.text" = "Go to";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "2ia-ZS-HwK"; */
+"2ia-ZS-HwK.normalTitle" = "REGISTER";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "39f-qw-VUh"; */
+"39f-qw-VUh.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "หมายเลขทะเบียนรถ"; ObjectID = "4iP-0u-chM"; */
+"4iP-0u-chM.text" = "หมายเลขทะเบียนรถ";
+
+/* Class = "UIButton"; normalTitle = "Chat"; ObjectID = "8MA-hE-UhT"; */
+"8MA-hE-UhT.normalTitle" = "Chat";
+
+/* Class = "UILabel"; text = "Chat view"; ObjectID = "AZ4-fw-qqB"; */
+"AZ4-fw-qqB.text" = "Chat view";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "Ctl-DC-mli"; */
+"Ctl-DC-mli.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "เบอร์โทรศัพท์มือถือ"; ObjectID = "FKu-sr-DwB"; */
+"FKu-sr-DwB.text" = "เบอร์โทรศัพท์มือถือ";
+
+/* Class = "UIButton"; normalTitle = "End transaction"; ObjectID = "H7Y-mT-ikQ"; */
+"H7Y-mT-ikQ.normalTitle" = "End transaction";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "Iyd-Ag-Psg"; */
+"Iyd-Ag-Psg.text" = "Subtitle";
+
+/* Class = "UILabel"; text = "Phuket Taxi Driver"; ObjectID = "JAv-bW-c2G"; */
+"JAv-bW-c2G.text" = "Phuket Taxi Driver";
+
+/* Class = "UIButton"; normalTitle = "Log out"; ObjectID = "KdA-Qm-Pmp"; */
+"KdA-Qm-Pmp.normalTitle" = "Log out";
+
+/* Class = "UILabel"; text = "wFrom"; ObjectID = "M1d-8T-5uD"; */
+"M1d-8T-5uD.text" = "wFrom";
+
+/* Class = "UILabel"; text = "นามสกุล"; ObjectID = "M4X-R7-wgo"; */
+"M4X-R7-wgo.text" = "นามสกุล";
+
+/* Class = "UILabel"; text = "Phuket Taxi"; ObjectID = "MRg-li-F6O"; */
+"MRg-li-F6O.text" = "Phuket Taxi";
+
+/* Class = "UIButton"; normalTitle = "Pick up"; ObjectID = "NXr-9U-BaW"; */
+"NXr-9U-BaW.normalTitle" = "Pick up";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "O0b-jb-DTm"; */
+"O0b-jb-DTm.normalTitle" = "Finish";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "O6W-Vs-y1W"; */
+"O6W-Vs-y1W.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "OMy-jg-2PJ"; */
+"OMy-jg-2PJ.normalTitle" = "SIGN IN";
+
+/* Class = "UILabel"; text = "ค่าโดยสาร"; ObjectID = "R6L-u8-VaV"; */
+"R6L-u8-VaV.text" = "ค่าโดยสาร";
+
+/* Class = "UIButton"; normalTitle = "เลือกรูป"; ObjectID = "TZH-DD-F6o"; */
+"TZH-DD-F6o.normalTitle" = "เลือกรูป";
+
+/* Class = "UIButton"; normalTitle = "Cradit Card"; ObjectID = "YJz-Ow-8RA"; */
+"YJz-Ow-8RA.normalTitle" = "Cradit Card";
+
+/* Class = "UILabel"; text = "From"; ObjectID = "Zut-GZ-7vo"; */
+"Zut-GZ-7vo.text" = "From";
+
+/* Class = "UIButton"; normalTitle = "Cash"; ObjectID = "dY5-xs-egD"; */
+"dY5-xs-egD.normalTitle" = "Cash";
+
+/* Class = "UILabel"; text = "Request"; ObjectID = "eqU-ju-8g3"; */
+"eqU-ju-8g3.text" = "Request";
+
+/* Class = "UILabel"; text = "เลขที่บัตรประชาชน"; ObjectID = "exC-28-Byf"; */
+"exC-28-Byf.text" = "เลขที่บัตรประชาชน";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "f35-QX-4gh"; */
+"f35-QX-4gh.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "E-mail"; ObjectID = "fDV-BG-TpV"; */
+"fDV-BG-TpV.text" = "E-mail";
+
+/* Class = "UILabel"; text = "60"; ObjectID = "fYT-ca-vmB"; */
+"fYT-ca-vmB.text" = "60";
+
+/* Class = "UITextView"; text = "Cake"; ObjectID = "gJC-Ng-6T0"; */
+"gJC-Ng-6T0.text" = "Cake";
+
+/* Class = "UILabel"; text = "ชื่อ"; ObjectID = "gXc-ZV-kM9"; */
+"gXc-ZV-kM9.text" = "ชื่อ";
+
+/* Class = "UILabel"; text = "Avatar :"; ObjectID = "h69-Us-QxB"; */
+"h69-Us-QxB.text" = "Avatar :";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "h9Q-MJ-mqh"; */
+"h9Q-MJ-mqh.text" = "Password";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "kg6-hK-Hue"; */
+"kg6-hK-Hue.text" = "Title";
+
+/* Class = "UILabel"; text = "รุ่นของรถ"; ObjectID = "mIA-FU-ibA"; */
+"mIA-FU-ibA.text" = "รุ่นของรถ";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "mIQ-YM-gNR"; */
+"mIQ-YM-gNR.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "mkn-S4-GHd"; */
+"mkn-S4-GHd.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "moW-tQ-6sF"; */
+"moW-tQ-6sF.text" = "Register";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "qAg-5p-gps"; */
+"qAg-5p-gps.normalTitle" = "Accept";
+
+/* Class = "UILabel"; text = "wGoto"; ObjectID = "qdI-kX-TaY"; */
+"qdI-kX-TaY.text" = "wGoto";
+
+/* Class = "UIButton"; normalTitle = "Forget password?"; ObjectID = "sa0-Yb-Ljg"; */
+"sa0-Yb-Ljg.normalTitle" = "Forget password?";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "ueH-Yh-57i"; */
+"ueH-Yh-57i.text" = "Distance";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "uhb-IA-c3z"; */
+"uhb-IA-c3z.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "บาท"; ObjectID = "x4i-B1-JJH"; */
+"x4i-B1-JJH.text" = "บาท";
