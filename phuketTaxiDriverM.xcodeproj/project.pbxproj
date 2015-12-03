@@ -7,6 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		281F180C1B79B50C003020AF /* PHUKET-TAXI-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 281F180B1B79B50C003020AF /* PHUKET-TAXI-01.png */; };
+		282691151B7B8E73007C8252 /* profileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 282691141B7B8E73007C8252 /* profileViewController.swift */; };
+		285088511AB5C92C006987FA /* MQTTPipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285088501AB5C92C006987FA /* MQTTPipe.swift */; };
+		285B6DFC1AB677BD00DD1F83 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285B6DFB1AB677BD00DD1F83 /* SwiftyJSON.swift */; };
+		286E12FD1B294923002A9860 /* yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = 286E12FC1B294923002A9860 /* yellow.png */; };
+		286E12FF1B2969E2002A9860 /* loginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 286E12FE1B2969E2002A9860 /* loginViewController.swift */; };
+		286EAB0D1B1443080056F3D6 /* chatBubble.css in Resources */ = {isa = PBXBuildFile; fileRef = 286EAB0C1B1443080056F3D6 /* chatBubble.css */; };
+		286EAB0F1B1443310056F3D6 /* base.html in Resources */ = {isa = PBXBuildFile; fileRef = 286EAB0E1B1443310056F3D6 /* base.html */; };
+		286EAB141B1444590056F3D6 /* custommerIconchat.png in Resources */ = {isa = PBXBuildFile; fileRef = 286EAB101B1444590056F3D6 /* custommerIconchat.png */; };
+		286EAB151B1444590056F3D6 /* speech_bubble_left_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 286EAB111B1444590056F3D6 /* speech_bubble_left_3.png */; };
+		286EAB161B1444590056F3D6 /* speech_bubble_right_3.png in Resources */ = {isa = PBXBuildFile; fileRef = 286EAB121B1444590056F3D6 /* speech_bubble_right_3.png */; };
+		286EAB171B1444590056F3D6 /* taxiIconchat.png in Resources */ = {isa = PBXBuildFile; fileRef = 286EAB131B1444590056F3D6 /* taxiIconchat.png */; };
 		2883925E1AB5C314001ADE88 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2883925D1AB5C314001ADE88 /* AppDelegate.swift */; };
 		288392611AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2883925F1AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodeld */; };
 		288392631AB5C314001ADE88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288392621AB5C314001ADE88 /* ViewController.swift */; };
@@ -14,6 +26,15 @@
 		288392681AB5C314001ADE88 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 288392671AB5C314001ADE88 /* Images.xcassets */; };
 		2883926B1AB5C314001ADE88 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 288392691AB5C314001ADE88 /* LaunchScreen.xib */; };
 		288392771AB5C314001ADE88 /* phuketTaxiDriverMTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 288392761AB5C314001ADE88 /* phuketTaxiDriverMTests.swift */; };
+		288392821AB5C369001ADE88 /* temp.m in Sources */ = {isa = PBXBuildFile; fileRef = 288392811AB5C369001ADE88 /* temp.m */; };
+		2887794A1B12014000E96255 /* custommerIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 288779481B12014000E96255 /* custommerIcon.png */; };
+		2887794B1B12014000E96255 /* taxiIcon.png in Resources */ = {isa = PBXBuildFile; fileRef = 288779491B12014000E96255 /* taxiIcon.png */; };
+		2892E8BB1AEB30E9003FC17F /* registerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2892E8BA1AEB30E9003FC17F /* registerViewController.swift */; };
+		28A490CF1AB96A0B00D84829 /* customDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A490CE1AB96A0B00D84829 /* customDetailViewController.swift */; };
+		28A490D01AB96A0B00D84829 /* customDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A490CE1AB96A0B00D84829 /* customDetailViewController.swift */; };
+		28BD22701B3664DC00C9D358 /* transactionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28BD226F1B3664DC00C9D358 /* transactionViewController.swift */; };
+		28C1460F1B0DD13500A5FCE0 /* chatViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28C1460E1B0DD13500A5FCE0 /* chatViewController.swift */; };
+		86E33081A4F46B069FCD9F01 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 17E67C710D9A82DCACAD45C6 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +48,21 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		17E67C710D9A82DCACAD45C6 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		281F180B1B79B50C003020AF /* PHUKET-TAXI-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PHUKET-TAXI-01.png"; sourceTree = "<group>"; };
+		282691141B7B8E73007C8252 /* profileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = profileViewController.swift; sourceTree = "<group>"; };
+		284B2B421BD28076008F0D1C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		285088501AB5C92C006987FA /* MQTTPipe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MQTTPipe.swift; path = ../MQTTPipe.swift; sourceTree = "<group>"; };
+		285B6DFA1AB677BD00DD1F83 /* SwiftyJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SwiftyJSON.h; sourceTree = "<group>"; };
+		285B6DFB1AB677BD00DD1F83 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
+		286E12FC1B294923002A9860 /* yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yellow.png; sourceTree = "<group>"; };
+		286E12FE1B2969E2002A9860 /* loginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = loginViewController.swift; sourceTree = "<group>"; };
+		286EAB0C1B1443080056F3D6 /* chatBubble.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = chatBubble.css; sourceTree = "<group>"; };
+		286EAB0E1B1443310056F3D6 /* base.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = base.html; sourceTree = "<group>"; };
+		286EAB101B1444590056F3D6 /* custommerIconchat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = custommerIconchat.png; sourceTree = SOURCE_ROOT; };
+		286EAB111B1444590056F3D6 /* speech_bubble_left_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = speech_bubble_left_3.png; sourceTree = SOURCE_ROOT; };
+		286EAB121B1444590056F3D6 /* speech_bubble_right_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = speech_bubble_right_3.png; sourceTree = SOURCE_ROOT; };
+		286EAB131B1444590056F3D6 /* taxiIconchat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = taxiIconchat.png; sourceTree = SOURCE_ROOT; };
 		288392581AB5C314001ADE88 /* phuketTaxiDriverM.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = phuketTaxiDriverM.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2883925C1AB5C314001ADE88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2883925D1AB5C314001ADE88 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -38,6 +74,16 @@
 		288392701AB5C314001ADE88 /* phuketTaxiDriverMTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = phuketTaxiDriverMTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		288392751AB5C314001ADE88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		288392761AB5C314001ADE88 /* phuketTaxiDriverMTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = phuketTaxiDriverMTests.swift; sourceTree = "<group>"; };
+		288392801AB5C369001ADE88 /* phuketTaxiDriverM-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "phuketTaxiDriverM-Bridging-Header.h"; sourceTree = "<group>"; };
+		288392811AB5C369001ADE88 /* temp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = temp.m; sourceTree = "<group>"; };
+		288779481B12014000E96255 /* custommerIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = custommerIcon.png; path = ../../phuketTaxiM1/custommerIcon.png; sourceTree = "<group>"; };
+		288779491B12014000E96255 /* taxiIcon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = taxiIcon.png; path = ../../phuketTaxiM1/taxiIcon.png; sourceTree = "<group>"; };
+		2892E8BA1AEB30E9003FC17F /* registerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = registerViewController.swift; sourceTree = "<group>"; };
+		28A490CE1AB96A0B00D84829 /* customDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = customDetailViewController.swift; sourceTree = "<group>"; };
+		28BD226F1B3664DC00C9D358 /* transactionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = transactionViewController.swift; sourceTree = "<group>"; };
+		28C1460E1B0DD13500A5FCE0 /* chatViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = chatViewController.swift; sourceTree = "<group>"; };
+		5B6461482703CAA68231B6DE /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
+		A26935399D7E5A02C53FE70A /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +91,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86E33081A4F46B069FCD9F01 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,9 +108,13 @@
 		2883924F1AB5C314001ADE88 = {
 			isa = PBXGroup;
 			children = (
+				288392811AB5C369001ADE88 /* temp.m */,
 				2883925A1AB5C314001ADE88 /* phuketTaxiDriverM */,
 				288392731AB5C314001ADE88 /* phuketTaxiDriverMTests */,
 				288392591AB5C314001ADE88 /* Products */,
+				288392801AB5C369001ADE88 /* phuketTaxiDriverM-Bridging-Header.h */,
+				39F74A62F94261CE1F213023 /* Pods */,
+				E30256C896F6A7CFB30B600C /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -79,13 +130,32 @@
 		2883925A1AB5C314001ADE88 /* phuketTaxiDriverM */ = {
 			isa = PBXGroup;
 			children = (
+				281F180B1B79B50C003020AF /* PHUKET-TAXI-01.png */,
+				286E12FC1B294923002A9860 /* yellow.png */,
+				286EAB101B1444590056F3D6 /* custommerIconchat.png */,
+				286EAB111B1444590056F3D6 /* speech_bubble_left_3.png */,
+				286EAB121B1444590056F3D6 /* speech_bubble_right_3.png */,
+				286EAB131B1444590056F3D6 /* taxiIconchat.png */,
+				288779481B12014000E96255 /* custommerIcon.png */,
+				288779491B12014000E96255 /* taxiIcon.png */,
+				285B6DFA1AB677BD00DD1F83 /* SwiftyJSON.h */,
+				285B6DFB1AB677BD00DD1F83 /* SwiftyJSON.swift */,
+				285088501AB5C92C006987FA /* MQTTPipe.swift */,
 				2883925D1AB5C314001ADE88 /* AppDelegate.swift */,
 				288392621AB5C314001ADE88 /* ViewController.swift */,
 				288392641AB5C314001ADE88 /* Main.storyboard */,
+				282691141B7B8E73007C8252 /* profileViewController.swift */,
+				28BD226F1B3664DC00C9D358 /* transactionViewController.swift */,
+				286E12FE1B2969E2002A9860 /* loginViewController.swift */,
+				28C1460E1B0DD13500A5FCE0 /* chatViewController.swift */,
 				288392671AB5C314001ADE88 /* Images.xcassets */,
 				288392691AB5C314001ADE88 /* LaunchScreen.xib */,
 				2883925F1AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodeld */,
 				2883925B1AB5C314001ADE88 /* Supporting Files */,
+				28A490CE1AB96A0B00D84829 /* customDetailViewController.swift */,
+				2892E8BA1AEB30E9003FC17F /* registerViewController.swift */,
+				286EAB0C1B1443080056F3D6 /* chatBubble.css */,
+				286EAB0E1B1443310056F3D6 /* base.html */,
 			);
 			path = phuketTaxiDriverM;
 			sourceTree = "<group>";
@@ -115,6 +185,23 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		39F74A62F94261CE1F213023 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				5B6461482703CAA68231B6DE /* Pods.debug.xcconfig */,
+				A26935399D7E5A02C53FE70A /* Pods.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		E30256C896F6A7CFB30B600C /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				17E67C710D9A82DCACAD45C6 /* libPods.a */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -122,9 +209,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2883927A1AB5C314001ADE88 /* Build configuration list for PBXNativeTarget "phuketTaxiDriverM" */;
 			buildPhases = (
+				37180742300CE0CB734FF22F /* Check Pods Manifest.lock */,
 				288392541AB5C314001ADE88 /* Sources */,
 				288392551AB5C314001ADE88 /* Frameworks */,
 				288392561AB5C314001ADE88 /* Resources */,
+				C1BBEB94C739853336237B04 /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -159,11 +248,19 @@
 		288392501AB5C314001ADE88 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0620;
 				ORGANIZATIONNAME = cake;
 				TargetAttributes = {
 					288392571AB5C314001ADE88 = {
 						CreatedOnToolsVersion = 6.2;
+						DevelopmentTeam = 96775H948U;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+						};
 					};
 					2883926F1AB5C314001ADE88 = {
 						CreatedOnToolsVersion = 6.2;
@@ -195,9 +292,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				286EAB161B1444590056F3D6 /* speech_bubble_right_3.png in Resources */,
+				286E12FD1B294923002A9860 /* yellow.png in Resources */,
+				286EAB141B1444590056F3D6 /* custommerIconchat.png in Resources */,
+				2887794A1B12014000E96255 /* custommerIcon.png in Resources */,
 				288392661AB5C314001ADE88 /* Main.storyboard in Resources */,
+				286EAB171B1444590056F3D6 /* taxiIconchat.png in Resources */,
 				2883926B1AB5C314001ADE88 /* LaunchScreen.xib in Resources */,
+				286EAB0F1B1443310056F3D6 /* base.html in Resources */,
+				281F180C1B79B50C003020AF /* PHUKET-TAXI-01.png in Resources */,
+				2887794B1B12014000E96255 /* taxiIcon.png in Resources */,
 				288392681AB5C314001ADE88 /* Images.xcassets in Resources */,
+				286EAB0D1B1443080056F3D6 /* chatBubble.css in Resources */,
+				286EAB151B1444590056F3D6 /* speech_bubble_left_3.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,14 +317,56 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		37180742300CE0CB734FF22F /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		C1BBEB94C739853336237B04 /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		288392541AB5C314001ADE88 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28BD22701B3664DC00C9D358 /* transactionViewController.swift in Sources */,
+				285088511AB5C92C006987FA /* MQTTPipe.swift in Sources */,
+				282691151B7B8E73007C8252 /* profileViewController.swift in Sources */,
+				28A490CF1AB96A0B00D84829 /* customDetailViewController.swift in Sources */,
 				288392631AB5C314001ADE88 /* ViewController.swift in Sources */,
+				28C1460F1B0DD13500A5FCE0 /* chatViewController.swift in Sources */,
+				286E12FF1B2969E2002A9860 /* loginViewController.swift in Sources */,
+				2892E8BB1AEB30E9003FC17F /* registerViewController.swift in Sources */,
 				288392611AB5C314001ADE88 /* phuketTaxiDriverM.xcdatamodeld in Sources */,
+				285B6DFC1AB677BD00DD1F83 /* SwiftyJSON.swift in Sources */,
 				2883925E1AB5C314001ADE88 /* AppDelegate.swift in Sources */,
+				288392821AB5C369001ADE88 /* temp.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,6 +374,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				28A490D01AB96A0B00D84829 /* customDetailViewController.swift in Sources */,
 				288392771AB5C314001ADE88 /* phuketTaxiDriverMTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -244,6 +394,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				288392651AB5C314001ADE88 /* Base */,
+				284B2B421BD28076008F0D1C /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -340,21 +491,36 @@
 		};
 		2883927B1AB5C314001ADE88 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5B6461482703CAA68231B6DE /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = phuketTaxiDriverM/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "phuketTaxiDriverM-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
 		2883927C1AB5C314001ADE88 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A26935399D7E5A02C53FE70A /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = phuketTaxiDriverM/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SWIFT_OBJC_BRIDGING_HEADER = "phuketTaxiDriverM-Bridging-Header.h";
 			};
 			name = Release;
 		};
@@ -411,6 +577,7 @@
 				2883927C1AB5C314001ADE88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2883927D1AB5C314001ADE88 /* Build configuration list for PBXNativeTarget "phuketTaxiDriverMTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +586,7 @@
 				2883927F1AB5C314001ADE88 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
